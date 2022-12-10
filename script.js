@@ -1,9 +1,9 @@
 let data = [
     {
-        name: "Ramesh",
-        roll: 2516,
+        name: "Shekhar",
+        roll: 2514,
         enroll: 97397979173,
-        marks: 61,
+        marks: 82,
 
     },
     {
@@ -17,6 +17,18 @@ let data = [
         roll: 2502,
         enroll: 24344466529,
         marks: 88,
+    },
+    {
+        name: "Sonakshi",
+        roll: 2534,
+        enroll: 243288584859,
+        marks: 87,
+    },
+    {
+        name: "Shoaib",
+        roll: 2235,
+        enroll: 247894366285,
+        marks: 72,
     },
     {
         name: "Shreyas",
