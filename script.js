@@ -44,6 +44,7 @@ let data = [
     }
 ]
 var i = 0;
+
 function create_tags() {
     if (i < data.length) {
         let tr = document.createElement("tr");
